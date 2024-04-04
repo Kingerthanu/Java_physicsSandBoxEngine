@@ -1,6 +1,6 @@
 Fun C++ project where I used multi-threading in order to make a little gravity engine and sandbox where you can stack randomly chosen blocks together or take down little towers of blocks. It also has bouncing balls which slowly will stop bouncing or will collide with other falling objects or static objects on the ground. 
 
-<img src="https://github.com/Kingerthanu/CPP_physicsEngine/assets/76754592/7cddc143-60bf-474e-909c-ca647f217e8e" alt="Cornstarch <3" width="95" height="179">
+<img src="https://github.com/Kingerthanu/CPP_physicsEngine/assets/76754592/7cddc143-60bf-474e-909c-ca647f217e8e" alt="Cornstarch <3" width="95" height="159">
 
 Project helped me in a lot of sectors in pipelining and trying to make streamlined code for differing objects. I also tried abstractifying things a little more and giving better interfacing to myself which was a benefit. Make sure you export this with all the .dlls if you want to run this Qt is kinda jank and have been trying to use openGL more.
 
