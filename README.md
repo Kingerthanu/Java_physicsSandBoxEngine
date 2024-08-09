@@ -1,3 +1,5 @@
+# Java_physicsSandBoxEngine
+
 Fun Java project where I used multi-threading in order to make a little gravity engine and sandbox where you can stack randomly chosen blocks together or take down little towers of blocks. It also has bouncing balls which slowly will stop bouncing or will collide with other falling objects or static objects on the ground. 
 
 <img src="https://github.com/Kingerthanu/CPP_physicsEngine/assets/76754592/7cddc143-60bf-474e-909c-ca647f217e8e" alt="Cornstarch <3" width="95" height="159">
